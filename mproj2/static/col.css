@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    background-image: url(/static/images/img3.png);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: 590px;
+}
+
+#img1 {
+    height: 100%;
+    width: 55%;
+    float: right;
+    position: relative;
+}
+
+#head {
+    font-size: 70px;
+    text-align: center;
+}
+
+textarea {
+    color: black;
+    border-color: black;
+    border-radius: 3%;
+    border-width: 5px;
+    background-color: aliceblue;
+}
+
+#sub {
+    font-size: 30px;
+    margin-left: 16%;
+    padding: 15px;
+    cursor: pointer;
+    background-color: darkcyan;
+    font-weight: 700;
+}
+
+#msg2 {
+    right: 0%;
+}
+
+h4,
+textarea {
+    display: inline;
+}
+
+h4 {
+    color: green;
+}
